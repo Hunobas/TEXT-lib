@@ -11,3 +11,4 @@ Web-based Guerrilla Participatory Relay Novel Game with ChatGPT
 ### Features
 - Gartic-Phone inspired relay novel game
 - Add ChatGPT to replenish panel and prevent trolling
+- The novel which has been completed by filling 12 sentences is titled by ChatGPT and released online
